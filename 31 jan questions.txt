@@ -1,0 +1,6 @@
+31 jan
+1. wap to find no. of object created out of the class static modifier, create a class student
+2. wap to input and display the details of n no. of students having rollno,name,cgpa as data members. also display the name of the student havinh lowest cgpa
+3. write a program to overload substract method with various parameters in a class in java. write the driver class to use the different substract method using object.
+4. wap which will overload the area method and display the area of a cricle,triangle and sqaure as per user choice and user entered dimensions
+5. wap in java using constructor overloading concept to calculate the area of the rectangle having data members as length and breadth. use default constructor to initialise the value of data member as 0 and parameterised constructor to initialise the value of data member according to the user member.
